@@ -7,7 +7,7 @@ La temática elegida es una **tabla de posiciones del Torneo Clausura 2025 de la
 Se eligió esta temática porque el fútbol es un aspecto cultural muy importante en Argentina y la tabla de posiciones es una forma clara y atractiva de mostrar información actualizada y organizada.  
 
 ## 🛠 Tecnologías Usadas
-- **HTML5** → para la estructura semántica de la página.  
+- **HTML** → para la estructura semántica de la página.  
 - **CSS** → para los estilos visuales aplicados a las tablas.  
 
 ## 📂 Estructura del Proyecto
