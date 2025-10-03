@@ -8,7 +8,7 @@ Se eligió esta temática porque el fútbol es un aspecto cultural muy important
 
 ## 🛠 Tecnologías Usadas
 - **HTML5** → para la estructura semántica de la página.  
-- **CSS3** → para los estilos visuales aplicados a las tablas.  
+- **CSS** → para los estilos visuales aplicados a las tablas.  
 
 ## 📂 Estructura del Proyecto
 - `index.html`: Página principal con la tabla de posiciones (Zona A y B).  
@@ -23,7 +23,6 @@ Se eligió esta temática porque el fútbol es un aspecto cultural muy important
 (Opcional) Si se publica en **GitHub Pages**, solo ingresar al enlace correspondiente del repositorio.  
 
 ## 🙋 Sobre el Autor
-- **Nombre:** Estudiante  
-- **Curso:** 6° G  
-- **Contacto:** [correo@example.com]  
+- **Nombre:** Thomas Guzmán  
+- **Curso:** 6° G   
 
